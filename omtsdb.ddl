@@ -1,7 +1,3 @@
---Author: Tiffany Chan (10181522) & Spencer Delaney (10178519)
---Class: CISC332 Project for OMTS database
---Final DML
-
 create database omtsdb;
 
 CREATE TABLE Users (
